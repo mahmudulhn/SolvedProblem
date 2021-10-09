@@ -1,8 +1,11 @@
-1 11 5
-2 6 7
-3 13 9
-12 7 16
-14 3 25
-19 18 22
-23 13 29
-24 4 28
+r/P,o/G,y/S,g/A,b/N
+r/G,o/P,y/S,g/A,b/N
+r/P,y/S,o/G,g/N,b/A
+r/P,o/S,y/A,g/G,b/N
+e
+r/G,o/P,y/S,g/A,b/N
+r/P,y/S,o/G,g/N,b/A
+r/P,o/S,y/A,g/G,b/N
+r/P,o/G,y/S,g/A,b/N
+ecclesiastical
+#
